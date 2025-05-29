@@ -1,0 +1,94 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(#ffecd2, #fcb69f);
+  background-image: url('images (8).jpeg');
+  background-size: cover;
+  background-position: center;
+  color: #4b2e05;
+}
+
+.main-image {
+  width: 80%;
+  max-width: 450px;
+  border-radius: 15px;
+  border: 4px solid gold;
+  box-shadow: 0 0 25px orange;
+  margin-bottom: 20px;
+}
+
+.sender-info h3 {
+  font-size: 1.5rem;
+  color: darkred;
+}
+
+.sender-image {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #ffc107;
+  box-shadow: 0 0 10px orange;
+  margin-top: 10px;
+}
+
+input[type="text"],
+input[type="file"] {
+  padding: 10px;
+  margin-top: 15px;
+  width: 80%;
+  max-width: 300px;
+  font-size: 16px;
+  border: 2px solid gold;
+  border-radius: 10px;
+  background: #fff8e1;
+  color: #4b2e05;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.preview {
+  margin-top: 15px;
+}
+
+.preview img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid orange;
+  box-shadow: 0 0 10px red;
+}
+
+.whatsapp-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background-color: #25d366;
+  color: white;
+  font-size: 18px;
+  border-radius: 12px;
+  text-decoration: none;
+  box-shadow: 0 4px 10px #888;
+  transition: background 0.3s ease;
+}
+
+.whatsapp-button:hover {
+  background-color: #1ebe5d;
+}
+.diwali-quote {
+  margin: 20px auto;
+  padding: 15px;
+  max-width: 500px;
+  background-color: rgba(255, 248, 220, 0.9);
+  border: 2px dashed orange;
+  border-radius: 15px;
+  font-style: italic;
+  font-size: 1.2rem;
+  color: #4b2e05;
+  box-shadow: 0 0 15px gold;
+}
+
+￼Enter
